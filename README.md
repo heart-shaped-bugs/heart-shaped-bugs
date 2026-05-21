@@ -7,9 +7,3 @@
 
 <div align="center">
 </div>
-
----
-
-<div align="center">
-  <i>Made with 💚 and Go – "Hallo zusammen" aus dem Herzen 🫀</i>
-</div>
